@@ -1,2 +1,1 @@
-# KernelAiKitCoreUltra
-Advanced KernelAiKitCoreUltra project
+.
